@@ -1,0 +1,40 @@
+html,
+body {
+  height: 100%;
+  font-family: 'DotGothic16', sans-serif;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-image: url("/assets/images/dime.jpg");
+  background-size: 100% 100%;
+
+
+}
+
+.bein{
+  color: #ff5b6e;
+  text-shadow: 0 2px 6px #fe6060;
+}
+.form-signin {
+  width: 100%;
+  max-width: 330px;
+  padding: 15px;
+  margin: auto;
+}
+
+
+.form-signin input[type="email"] {
+  margin-bottom: 4px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+.form-signin input[type="text"] {
+  margin-bottom: 10px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}

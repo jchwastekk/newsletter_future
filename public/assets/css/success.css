@@ -1,0 +1,17 @@
+body {
+  align-items: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  font-family: 'DotGothic16', sans-serif;
+}
+
+.top{
+  margin-top: 100px;
+}
+
+.duck{
+  height: 276px;
+  width: 227px;
+  max-width: 300px;
+  margin-top: 10px;
+}
